@@ -16,14 +16,6 @@ For example, for `m = 3` and `n = 5`, the expected output sequence is:
 
 The circuit demonstrates the application of digital logic components to arithmetic operations, comparison, and numerical display.
 
-## 🎓 Course Project
-
-- **Course:** Logic Circuits (LC)
-- **Project Type:** Final Project
-- **Design and Simulation Tool:** Proteus Design Suite
-
-This project was developed as the final project of the Digital Logic course to apply concepts learned throughout the course in a practical circuit design.
-
 ## 🛠️ Tools and Components
 
 - Proteus Design Suite
@@ -43,6 +35,13 @@ This project was developed as the final project of the Digital Logic course to a
 3. Run the simulation.
 4. Observe the displayed multiples of `n`.
 
----
+## 🎓 Academic Information
 
-*An academic final project in digital logic circuit design and simulation.*
+- **Course:** Logic Circuits (LC)
+- **Academic Level:** Bachelor's Degree — Second Semester
+- **Project Type:** Course Project
+- **Instructor:** Dr. Somayeh Kashi
+- **Project Date:** September ‎2025
+---
+*This project was developed as the final project of the Digital Logic course to apply concepts learned throughout the course in a practical circuit design.*
+
